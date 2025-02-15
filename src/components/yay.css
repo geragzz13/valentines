@@ -1,0 +1,26 @@
+.yay {
+    text-align: center;
+    margin-top: 2rem;
+    padding: 2rem;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    color: white;
+  }
+  
+  .yay h1 {
+    font-size: 2.5rem;
+    color: #ffeb3b;
+    margin-bottom: 1rem;
+  }
+  
+  .yay p {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+  }
+
+  .celebration-gif {
+    max-width: 100%; /* Ensure the video doesn't overflow the container */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 10px; /* Optional: Add rounded corners */
+  }
